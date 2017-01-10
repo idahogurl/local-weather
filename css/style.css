@@ -1,0 +1,14 @@
+#icon {
+  width: 64px;
+  height: 64px;
+}
+
+.well {
+  width: 300px;
+  display: none;
+}
+
+body {
+  margin-top: 20px;
+  background-color: #ccc;
+}
